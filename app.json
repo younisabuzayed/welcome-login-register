@@ -4,7 +4,7 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "my-app",
-    "slug": "my-app"
+    "name": "Login-System",
+    "slug": "Login-System"
   }
 }
